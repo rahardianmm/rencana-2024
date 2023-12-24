@@ -9,3 +9,4 @@ Rencana Belajar :
   -) Mikrotik
 - English
 - Cloud
+  -) AWS
