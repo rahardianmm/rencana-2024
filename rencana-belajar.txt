@@ -1,0 +1,7 @@
+Rencana Belajar :
+- Web
+  -) Javascript
+  -) PHP
+- Networking
+- Cloud
+- English
