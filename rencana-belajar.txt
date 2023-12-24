@@ -1,9 +1,12 @@
 Rencana Belajar :
 - Web
   -) Javascript
+     ^ React JS
   -) PHP
-- Cloud
+     ^ Laravel
 - Networking
   -) Cisco
   -) Mikrotik
 - English
+- Cloud
+  -) AWS
