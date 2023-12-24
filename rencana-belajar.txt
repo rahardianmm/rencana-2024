@@ -1,8 +1,9 @@
 Rencana Belajar :
 - Web
   -) Javascript
+    ^ Vue JS
   -) PHP
-- Cloud
+     ^ Laravel
 - Networking
   -) Cisco
   -) Mikrotik
