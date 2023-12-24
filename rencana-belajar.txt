@@ -1,7 +1,8 @@
 Rencana Belajar :
 - Web
   -) Javascript
-     ^ React JS
+    ^ Vue JS 
+    ^ React JS
   -) PHP
      ^ Laravel
 - Networking
