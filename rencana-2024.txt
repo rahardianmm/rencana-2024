@@ -1,0 +1,4 @@
+Rencana 2024 :
+- Web (frontend dan backend )
+- Networking ( ccna, ccnp, mtcna, mtcre )
+- Cloud ( aws cloud practitioner, solution architect )
